@@ -1,4 +1,4 @@
-Hi 👋 My name is Spencer Chakabva
+Hi 👋, My name is Spencer A Chakabva
 =================================
 
 Web Developer and Designer
