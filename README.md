@@ -7,7 +7,7 @@ Web Developer and Designer
 I've been learning front-end and back-end web development. I am really passionate about Machine Learning and Artificial Intelligence. I would love to expand my knowledge in those fields of Computer Science and be able to apply it to the service of the world. I enjoy subjects like space exploration, sci-fi stories & movies. My biggest wish is to able in the future build Intelligent Systems and Machines that will serve the world for the better of society. I seek to better the lives of average people using my knowledge of Computer Science
 
 *   🌍  I'm based in Harare Zimbabwe
-*   ✉️  You can contact me at [Spencerchakabva2029@gmail.com](mailto:Spencerchakabva2029@gmail.com)
+*   ✉️  You can contact me at [Spencerchakabva2029@gmail.com](mailto:Spencerchakabva@gmail.com)
 *   🧠  I'm learning React and Nodejs for Web Applications and Mobile Apps
 *   🤝  I'm open to collaborating on Web Service Application, React Projects, C# Projects, Machine Learning & Microservice Pojects
 *   ⚡  I love Halo Series And Marvel... DC fans I love you too 😇😅
